@@ -58,7 +58,7 @@ body {
   position: absolute;
   top: 15px;
   right: -70px;
-  writing-mode: tb-rl;
+  writing-mode: vertical-rl;
   direction: ltr;
   line-height: 250%;
 }
